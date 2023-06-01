@@ -1,0 +1,36 @@
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.csproj.AssemblyReference.cache
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.Form1.resources
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.Properties.Resources.resources
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.csproj.GenerateResource.cache
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.AssemblyInfoInputs.cache
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.AssemblyInfo.cs
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.csproj.CoreCompileInputs.cache
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\bin\Debug\net6.0-windows\radyo.exe
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\bin\Debug\net6.0-windows\radyo.deps.json
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\bin\Debug\net6.0-windows\radyo.runtimeconfig.json
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\bin\Debug\net6.0-windows\radyo.dll
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\bin\Debug\net6.0-windows\radyo.pdb
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.dll
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\refint\radyo.dll
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.pdb
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\radyo.genruntimeconfig.cache
+C:\Users\bf427\Desktop\c# ders\radyo\radyo\obj\Debug\net6.0-windows\ref\radyo.dll
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\bin\Debug\net6.0-windows\radyo.exe
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\bin\Debug\net6.0-windows\radyo.deps.json
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\bin\Debug\net6.0-windows\radyo.runtimeconfig.json
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\bin\Debug\net6.0-windows\radyo.dll
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\bin\Debug\net6.0-windows\radyo.pdb
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.csproj.AssemblyReference.cache
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.Form1.resources
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.Properties.Resources.resources
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.csproj.GenerateResource.cache
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.AssemblyInfoInputs.cache
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.AssemblyInfo.cs
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.csproj.CoreCompileInputs.cache
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.dll
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\refint\radyo.dll
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.pdb
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\radyo.genruntimeconfig.cache
+C:\Users\bf427\Desktop\c# ders\2. sayiyi tahmin et\radyo\obj\Debug\net6.0-windows\ref\radyo.dll
